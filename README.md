@@ -15,7 +15,7 @@ It allows users to calculate simple interest based on **Principal**, **Rate of I
 - `LICENSE` – Apache 2.0 License
 - `README.md` – Project documentation
 - `CODE_OF_CONDUCT.md` – Guidelines for repository conduct
-- `CONTRIBUTING.md` – Guidelines for contributing
+- `CONTRIBUTING.md` – Guidelines for contributing.
 
 ## How to Run
 1. Open your terminal.
